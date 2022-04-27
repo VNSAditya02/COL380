@@ -1,0 +1,56 @@
+Runtimes:
+
+Graph-1: 82168_870161
+
+Parameters (Constant):
+num_nodes: 82168
+num_edges: 870161
+alpha: 0.1
+num_steps: 100
+num_walks: 30
+num_rec: 20
+seed: 369
+
+No of processes-Runtime:
+1-668641ms
+2-554566ms
+4-390276ms
+8-257480ms
+16-122551ms
+
+Graph-2: 81867_545671
+
+Parameters (Constant):
+num_nodes: 81867
+num_edges: 545671
+alpha: 0.1
+num_steps: 100
+num_walks: 30
+num_rec: 20
+seed: 369
+
+No of processes-Runtime:
+1-241924ms
+2-185590ms
+4-123698ms
+8-78733ms
+16-50255ms
+
+Graph-1: 8717_31525
+
+Parameters (Constant):
+num_nodes: 8717
+num_edges: 31525
+alpha: 0.1
+num_steps: 100
+num_walks: 30
+num_rec: 20
+seed: 369
+
+No of processes-Runtime:
+1-5970.8ms
+2-4897.92ms
+4-4696.16ms
+8-4094.26ms
+16-3905.03ms
+
